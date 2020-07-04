@@ -1,0 +1,10 @@
+/* components/goods/goods.wxss */
+.goods {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30rpx;
+  justify-content: space-evenly;
+}
+.goods-item {
+  width: 48%;
+}
